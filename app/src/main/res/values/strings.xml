@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Search</string>
+    <string name="searchButtonText">Search</string>
+    <string name="movieDetailsTitle">Movie Title</string>
+    <string name="movieDetailsStudio">Movie Studio</string>
+    <string name="movieDetailsRating">Movie Rating</string>
+    <string name="movieDetailsYear">Movie Year</string>
+    <string name="movieDetailsPosterDescription">Movie poster image</string>
+</resources>
